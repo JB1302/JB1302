@@ -21,7 +21,7 @@ I’m a Backend developer building beautiful, performant web apps.
 - 📝 I write technical articles at [my portfolio](https://jb1302.github.io/Portfolio/)  
 
 > _“Write your README before your code.”_  
-> — Tom Preston-Werner, GitHub co-founder :contentReference[oaicite:0]{index=0}
+> — Tom Preston-Werner, GitHub co-founder 
 
 ---
 
