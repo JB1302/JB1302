@@ -27,6 +27,7 @@ I’m a frontend developer building beautiful, performant web apps.
 
 ## 🚀 Projects  
 All my work lives under [github.com/JB1302/Projects](https://github.com/JB1302/Projects)  
+
 Here are a few highlights:
 
 | Repository | Description | Tech Stack |
@@ -35,7 +36,7 @@ Here are a few highlights:
 | **Vehicle Repair Manager** | Desktop app to manage vehicle repairs & billing | Java, MySQL, Python |
 | **Meal Prep Planner** | Monthly meal-prep scheduler & shopping lists | Python, Pandas, Excel |
 
-_For more, see the full list of projects!_ :contentReference[oaicite:1]{index=1}
+_For more, see the full list of projects!_ [→ All Projects](https://github.com/JB1302/Projects)
 
 ---
 
