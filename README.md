@@ -1,6 +1,6 @@
 <!-- Banner / Profile Intro -->
 <h1 align="center">Hi 👋, I’m Jonathan</h1>
-<h3 align="center">A passionate Frontend Developer from Costa Rica</h3>
+<h3 align="center">A passionate Backend Developer from Costa Rica</h3>
 
 <p align="center">
   <a href="#about-me">About Me</a> •
@@ -13,7 +13,7 @@
 ---
 
 ## 📖 About Me  
-I’m a frontend developer building beautiful, performant web apps.  
+I’m a Backend developer building beautiful, performant web apps.  
 - 🌱 I’m currently learning **Python** and **Java**  
 - 👯 I’m looking to collaborate on **fun, creative projects**  
 - 🤝 I’m open to mentorship on **career development**  
