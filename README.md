@@ -58,13 +58,13 @@ Explore by stack, or jump to [All Projects](https://github.com/JB1302/Projects):
 
 | Project | Description | Tech Stack | Section |
 |---|---|---|---|
-| [TreeCapitator](./SpringBoot/TreeCapitator) | CRUD app for tree species with MySQL, image upload, clean architecture | Java, Spring Boot, Thymeleaf | [Spring Boot](#🌿-spring-boot-project-section) |
-| [Product Manager CRUD](./SpringBoot/Firebase-Project) | Product inventory app: add/edit/delete, Firebase image upload, i18n UI | Java, Spring Boot, Firebase | [Spring Boot](#🌿-spring-boot-project-section) |
-| [Food Delivery Landing](./React/SimpleLanding) | Responsive React business landing with Material UI | React, Material UI | [React](#⚛️-react-project-section) |
-| [HR Analytics ETL](./Python/SQL-ETL) | Excel → JSON → MySQL pipeline, PowerBI-ready | Python, Pandas, SQL | [Python](#🐍-python-project-section) |
-| [Banking Management System](./Java/BankManager) | Modular queue-based banking, stats, file IO | Java, Swing, Jsoup | [Java](#☕-java-project-section) |
-| [Web Hero](./JavaScript/Web-Hero) | Animated grid landing, vanilla JS/CSS | HTML, JS, CSS | [JavaScript](#🟨-javascript-project-section) |
-| [Bootstrap Landing Page](./BootStrap/Bootstrap%20Testing) | Data Engineer portfolio landing | Bootstrap 5, HTML, CSS | [Bootstrap](#📦-bootstrap-project-section) |
+| [TreeCapitator](https://github.com/JB1302/Projects/tree/main/SpringBoot/TreeCapitator) | CRUD app for tree species with MySQL, image upload, clean architecture | Java, Spring Boot, Thymeleaf | [Spring Boot](#🌿-spring-boot-project-section) |
+| [Product Manager CRUD](https://github.com/JB1302/Projects/tree/main/SpringBoot/Firebase-Project) | Product inventory app: add/edit/delete, Firebase image upload, i18n UI | Java, Spring Boot, Firebase | [Spring Boot](#🌿-spring-boot-project-section) |
+| [Food Delivery Landing](https://github.com/JB1302/Projects/tree/main/React/SimpleLanding) | Responsive React business landing with Material UI | React, Material UI | [React](#⚛️-react-project-section) |
+| [HR Analytics ETL](https://github.com/JB1302/Projects/tree/main/Python/SQL-ETL) | Excel → JSON → MySQL pipeline, PowerBI-ready | Python, Pandas, SQL | [Python](#🐍-python-project-section) |
+| [Banking Management System](https://github.com/JB1302/Projects/tree/main/Java/BankManager) | Modular queue-based banking, stats, file IO | Java, Swing, Jsoup | [Java](#☕-java-project-section) |
+| [Web Hero](https://github.com/JB1302/Projects/tree/main/JavaScript/Web-Hero) | Animated grid landing, vanilla JS/CSS | HTML, JS, CSS | [JavaScript](#🟨-javascript-project-section) |
+| [Bootstrap Landing Page](https://github.com/JB1302/Projects/tree/main/BootStrap/Bootstrap%20Testing) | Data Engineer portfolio landing | Bootstrap 5, HTML, CSS | [Bootstrap](#📦-bootstrap-project-section) |
 
 _And more—see each section for the full catalog, features, and README guides._
 
