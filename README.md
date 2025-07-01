@@ -31,7 +31,7 @@ I'm a backend developer and data enthusiast passionate about turning ideas into 
 <p align="center">
   <a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
   <a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/></a>
-  <a href="https://www.thymeleaf.org/"><img src="https://www.thymeleaf.org/doc/logo.svg" alt="Thymeleaf" width="40" height="40"/></a>
+  <a href="https://www.thymeleaf.org/"><img src="https://www.thymeleaf.org/images/thymeleaf.png" alt="Thymeleaf" width="40" height="40"/></a>
   <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
   <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
