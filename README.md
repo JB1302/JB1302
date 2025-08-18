@@ -1,185 +1,201 @@
-<!-- Banner / Profile Intro -->
-<h1 align="center">Hi 👋, I’m Jonathan Barrantes</h1>
-<h3 align="center">Backend & Data Engineer | Java Specialist | Costa Rica</h3>
+# Simulador de Actividad Artificial en VM - Demostración Ética
 
-<p align="center">
-  <a href="#about-me">About Me</a> •
-  <a href="#projects">Projects</a> •
-  <a href="#skills--tools">Skills</a> •
-  <a href="#contact">Contact</a>
-</p>
+## 📋 Descripción
+
+Este proyecto forma parte de una tesis académica que demuestra cómo los empleados pueden utilizar scripts de Python para crear actividad artificial en máquinas virtuales (VMs). El propósito es **exclusivamente educativo y ético**, para mostrar a las empresas los riesgos potenciales y cómo implementar medidas de detección.
+
+## ⚠️ Advertencia Legal y Ética
+
+- **SOLO PARA FINES EDUCATIVOS**: Este software está diseñado únicamente para investigación académica
+- **NO USAR EN PRODUCCIÓN**: No debe utilizarse en entornos de trabajo reales
+- **RESPONSABILIDAD**: El usuario es responsable del uso ético y legal de este software
+- **CONSENTIMIENTO**: Solo usar en sistemas propios o con autorización explícita
+
+## 🚀 Instalación
+
+### Requisitos Previos
+- Python 3.7 o superior
+- pip (gestor de paquetes de Python)
+- Una máquina virtual ejecutándose (VMware, VirtualBox, etc.)
+
+### Instalación de Dependencias
+
+```bash
+# Instalar las dependencias necesarias
+pip install -r requirements.txt
+```
+
+### Dependencias Instaladas
+- `pyautogui`: Para control de mouse y teclado
+- `pygetwindow`: Para gestión de ventanas
+
+## 🔧 Configuración
+
+### Opción 1: Configuración Automática (Recomendada)
+
+```bash
+# Ejecutar el configurador interactivo
+python configuracion_vm.py
+```
+
+El configurador te ayudará a:
+- Listar todas las ventanas disponibles
+- Identificar ventanas que podrían ser VMs
+- Configurar el título exacto de tu VM
+- Establecer duración e intervalos
+
+### Opción 2: Configuración Manual
+
+Edita directamente las variables en `simulador_actividad_vm.py`:
+
+```python
+VM_WINDOW_TITLE = "Nombre de tu VM aquí"  # Ej: "Ubuntu - VMware"
+DURACION_MINUTOS = 5                      # Duración total
+ZONA_SEGURA_X = 50                        # Zona de emergencia X
+ZONA_SEGURA_Y = 50                        # Zona de emergencia Y
+INTERVALO_MIN = 5                         # Mínimo segundos entre acciones
+INTERVALO_MAX = 15                        # Máximo segundos entre acciones
+```
+
+## 🎯 Uso
+
+### Preparación
+1. **Asegúrate de que tu VM esté ejecutándose** y visible en pantalla
+2. **Configura el título de la ventana** de la VM correctamente
+3. **Ten una aplicación abierta** en la VM donde se pueda escribir (notepad, terminal, etc.)
+
+### Ejecución
+
+```bash
+# Ejecutar el simulador
+python simulador_actividad_vm.py
+```
+
+### Mecanismos de Seguridad
+
+#### 🛑 Zona de Emergencia
+- **Ubicación**: Esquina superior izquierda de la pantalla (50x50 píxeles)
+- **Función**: Mover el mouse a esta zona detiene inmediatamente la ejecución
+- **Uso**: En caso de emergencia, mueve rápidamente el mouse a la esquina superior izquierda
+
+#### ⏹️ Detención Manual
+- **Ctrl+C**: Detiene la ejecución de forma segura
+- **Restauración**: El mouse regresa automáticamente a su posición original
+
+#### ⏰ Límite de Tiempo
+- **Configurable**: Duración máxima predefinida (default: 5 minutos)
+- **Seguridad**: El script se detiene automáticamente al alcanzar el límite
+
+## 🔍 Funcionalidades del Simulador
+
+### Actividades Simuladas
+
+1. **Movimientos de Mouse Realistas**
+   - Posiciones aleatorias dentro de la VM
+   - Velocidades variables (0.3-0.7 segundos)
+   - Clics izquierdos y derechos
+
+2. **Escritura Humana**
+   - Palabras comunes de oficina
+   - Errores tipográficos ocasionales (20% probabilidad)
+   - Velocidad variable entre teclas (0.05-0.2 segundos)
+
+3. **Navegación por Teclado**
+   - Tabulador, Enter, flechas
+   - Escape, espacio
+   - Cambio entre aplicaciones (Alt+Tab)
+
+4. **Intervalos Variables**
+   - Pausas aleatorias entre acciones (5-15 segundos)
+   - Simula comportamiento humano real
+
+### Distribución de Acciones
+- **30%**: Movimiento + clic de mouse
+- **30%**: Escritura de texto
+- **20%**: Navegación por teclado
+- **10%**: Cambio de aplicación
+- **10%**: Otras acciones
+
+## 📊 Monitoreo y Logs
+
+El script proporciona información en tiempo real:
+- Número de acción actual
+- Tiempo hasta la próxima acción
+- Estado de la ventana de VM
+- Alertas de seguridad
+
+## 🛡️ Medidas de Detección Sugeridas
+
+Para las empresas que quieran detectar este tipo de actividad:
+
+### 1. Análisis de Patrones
+- **Movimientos de mouse**: Detectar patrones demasiado regulares
+- **Intervalos de tiempo**: Identificar pausas muy consistentes
+- **Secuencias de teclas**: Detectar repeticiones exactas
+
+### 2. Monitoreo de Actividad
+- **Horarios**: Actividad fuera de horarios normales
+- **Frecuencia**: Actividad constante sin pausas naturales
+- **Aplicaciones**: Uso simultáneo de múltiples aplicaciones
+
+### 3. Herramientas de Detección
+- **Software de monitoreo**: Time tracking con análisis de patrones
+- **Análisis de comportamiento**: Machine learning para detectar anomalías
+- **Auditoría de logs**: Revisión de eventos del sistema
+
+## 📁 Estructura del Proyecto
+
+```
+├── simulador_actividad_vm.py    # Script principal
+├── configuracion_vm.py          # Configurador interactivo
+├── requirements.txt             # Dependencias
+├── README.md                    # Este archivo
+└── config_vm.py                 # Configuración generada (se crea automáticamente)
+```
+
+## 🔧 Solución de Problemas
+
+### Error: "No se encontró la ventana"
+- Verifica que la VM esté ejecutándose y visible
+- Usa `configuracion_vm.py` para listar ventanas disponibles
+- Asegúrate de que el título coincida exactamente
+
+### Error: "pyautogui no está instalado"
+```bash
+pip install pyautogui pygetwindow
+```
+
+### El script no responde a la zona de emergencia
+- Verifica que las coordenadas de la zona segura sean correctas
+- Asegúrate de que el mouse esté realmente en la esquina superior izquierda
+- Usa Ctrl+C como alternativa
+
+### La VM pierde el foco constantemente
+- El script detecta automáticamente cuando la VM pierde el foco
+- Re-activa la ventana automáticamente
+- Considera reducir la frecuencia de acciones
+
+## 📚 Referencias Académicas
+
+Este proyecto puede ser útil para investigaciones sobre:
+- Seguridad informática en entornos corporativos
+- Detección de actividad artificial
+- Automatización y sus implicaciones éticas
+- Herramientas de monitoreo de empleados
+
+## 🤝 Contribuciones
+
+Para contribuciones académicas:
+1. Mantén el enfoque educativo
+2. Documenta claramente el propósito
+3. Incluye advertencias de seguridad
+4. Respeta las consideraciones éticas
+
+## 📄 Licencia
+
+Este software está destinado únicamente para fines educativos y de investigación. El uso comercial o malicioso está estrictamente prohibido.
 
 ---
 
-## 📖 About Me
-
-I'm a backend developer and data enthusiast passionate about turning ideas into robust, real-world applications.
-
-- 💻 **Strongest in Java, Spring Boot, SQL, and backend systems**
-- 🚀 Build full-stack web apps, ETL pipelines, automations, and analytics dashboards
-- 🧠 Always exploring new stacks (Python, React, PostgreSQL) and practical solutions
-- 🛠️ Hands-on with DBs, APIs, desktop UIs, data pipelines, and automations
-- 🌎 Based in Costa Rica, open to challenges and collaborations
-
-> _“Write your README before your code.”_  
-> — Tom Preston-Werner (GitHub Co-Founder)
-
----
-
-## 🛠️ Skills & Tools  
-
-<p align="center">
-  <a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/></a>
-  <a href="https://www.thymeleaf.org/"><img src="https://www.thymeleaf.org/images/thymeleaf.png" alt="Thymeleaf" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
-  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/sql-server"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/></a>
-</p>
-
----
-
-## 🌐 Languages & Stats
-
-- **Java:** 73.7%  
-- **HTML:** 16.1%  
-- **JavaScript:** 4.0%  
-- **Python:** 3.3%  
-- **CSS:** 2.9%  
-
----
-
-## 🚀 Projects
-
-Explore by stack, or jump to [All Projects](https://github.com/JB1302/Projects):
-
-| Project | Description | Tech Stack | Section |
-|---|---|---|---|
-| [Pocket Balance](https://github.com/JB1302/PocketBalance) | Personal finance manager: track salary, expenses, and surplus. PostgreSQL, modals, real-time UI. | Java, Spring Boot, Thymeleaf, PostgreSQL, Bootstrap | [Spring Boot](#spring-boot-project-section) |
-| [TreeCapitator](https://github.com/JB1302/Projects/tree/main/SpringBoot/TreeCapitator) | CRUD for tree species with MySQL, image upload, clean layered architecture. | Java, Spring Boot, Thymeleaf, MySQL, Bootstrap | [Spring Boot](#spring-boot-project-section) |
-| [Product Manager CRUD](https://github.com/JB1302/Projects/tree/main/SpringBoot/Firebase-Project) | Product inventory app: add/edit/delete, Firebase image upload, i18n UI. | Java, Spring Boot, Thymeleaf, Firebase, Bootstrap | [Spring Boot](#spring-boot-project-section) |
-| [Food Delivery Landing](https://github.com/JB1302/Projects/tree/main/React/SimpleLanding) | Responsive React business landing with Material UI. | React, Material UI | [React](#react-project-section) |
-| [HR Analytics ETL](https://github.com/JB1302/Projects/tree/main/Python/SQL-ETL) | Excel → JSON → MySQL pipeline, PowerBI-ready. | Python, Pandas, SQL | [Python](#python-project-section) |
-| [Banking Management System](https://github.com/JB1302/Projects/tree/main/Java/BankManager) | Modular queue-based banking, stats, file IO. | Java, Swing, Jsoup | [Java](#java-project-section) |
-| [Web Hero](https://github.com/JB1302/Projects/tree/main/JavaScript/Web-Hero) | Animated grid landing, vanilla JS/CSS. | HTML, JS, CSS | [JavaScript](#javascript-project-section) |
-| [Bootstrap Landing Page](https://github.com/JB1302/Projects/tree/main/BootStrap/Bootstrap%20Testing) | Data Engineer portfolio landing. | Bootstrap 5, HTML, CSS | [Bootstrap](#bootstrap-project-section) |
-
-_And more—see each section for the full catalog, features, and README guides._
-
----
-
-## 📂 Repository Sections
-
-- [Spring Boot](#spring-boot-project-section)
-- [React](#react-project-section)
-- [Python](#python-project-section)
-- [JavaScript](#javascript-project-section)
-- [Java](#java-project-section)
-- [Bootstrap](#bootstrap-project-section)
-- [🗃️ Documentos & Others](#documentos--otros)
-
----
-
-## 📫 Contact
-
-- **Email:** jstevenbarrantes@gmail.com  
-- **LinkedIn:** [Jonathan Barrantes](https://www.linkedin.com/in/jonathan-barrantes/)
-
----
-
-<details>
-<summary>Fun fact (click!):</summary>
-<p>
-If my code doesn't run the first time, it's not a bug—it's an "emerging feature". 😉
-</p>
-</details>
-
----
-
-_This profile is open to feedback, collaborations, or just connecting with like-minded devs.  
-Star a repo if you like it, or reach out—I'm always learning!_
-
----
-
-## 🌿 Spring Boot Project Section
-
-A selection of robust full-stack web apps built with Java, Spring Boot, Thymeleaf, SQL, and Bootstrap.  
-Includes dashboards, modular CRUD systems, image upload, i18n UI, and REST/DB integrations.
-
-| Project | Features | Stack |
-|---|---|---|
-| [Pocket Balance](https://github.com/JB1302/PocketBalance) | Personal finance manager, salary/expenses/surplus, PostgreSQL cloud DB, modals, responsive UI | Java, Spring Boot, Thymeleaf, PostgreSQL, Bootstrap |
-| [TreeCapitator](https://github.com/JB1302/Projects/tree/main/SpringBoot/TreeCapitator) | CRUD for tree species, MySQL persistence, image upload | Java, Spring Boot, Thymeleaf, MySQL, Bootstrap |
-| [Product Manager CRUD](https://github.com/JB1302/Projects/tree/main/SpringBoot/Firebase-Project) | Product inventory, Firebase image upload, multilingual UI | Java, Spring Boot, Thymeleaf, Firebase, Bootstrap |
-
----
-
-## ⚛️ React Project Section
-
-Modern, modular web apps and business landings with React, Material UI, and best practices.
-
-| Project | Features | Stack |
-|---|---|---|
-| [Food Delivery Landing](https://github.com/JB1302/Projects/tree/main/React/SimpleLanding) | Responsive business site, Material UI | React, Material UI |
-| [Minimal Landing](https://github.com/JB1302/Projects/tree/main/React/LandingHero) | Portfolio/product landing, clean design | React, CSS |
-
----
-
-## 🐍 Python Project Section
-
-Automations, ETL pipelines, analytics, and desktop tools—Pandas, SQL, web automation.
-
-| Project | Features | Stack |
-|---|---|---|
-| [Financial Transaction Manager](https://github.com/JB1302/Projects/tree/main/Python/Transaction-Manager) | Desktop UI for income/expenses, cross-platform | Python, PyWebView |
-| [HR Analytics ETL](https://github.com/JB1302/Projects/tree/main/Python/SQL-ETL) | Excel → JSON → MySQL ETL, PowerBI-ready | Python, Pandas, SQL |
-| [Address Search Automation](https://github.com/JB1302/Projects/tree/main/Python/Pandas-WeBrowser) | Batch Google Maps validation from Excel | Python, pandas, webbrowser |
-
----
-
-## 🟨 JavaScript Project Section
-
-Interactive UIs and games with vanilla JS, HTML5, and CSS3.
-
-| Project | Features | Stack |
-|---|---|---|
-| [Web Hero](https://github.com/JB1302/Projects/tree/main/JavaScript/Web-Hero) | Animated grid UI, sidebar, responsive | JS, HTML, CSS |
-| [Collapsible Side Panel](https://github.com/JB1302/Projects/tree/main/JavaScript/Acordion) | Responsive dashboard UI | JS, HTML, CSS |
-| [Rock Paper Scissors](https://github.com/JB1302/Projects/tree/main/JavaScript/Rock-Paper-Scissors) | Classic browser game | JS, HTML, CSS |
-
----
-
-## ☕ Java Project Section
-
-From GUIs to REST APIs and networked apps, showing advanced OOP, Swing/JavaFX, and persistence.
-
-| Project | Features | Stack |
-|---|---|---|
-| [WeatherApp](https://github.com/JB1302/Projects/tree/main/Java/WeatherApp) | Desktop weather app, API calls | Java, Swing, HTTP |
-| [Banking System](https://github.com/JB1302/Projects/tree/main/Java/BankManager) | Modular queue-based banking | Java, Swing |
-| [Art Gallery System](https://github.com/JB1302/Projects/tree/main/Java/SGA) | Artists/galleries CRUD + socket system | Java, MySQL, Swing |
-
----
-
-## 📦 Bootstrap Project Section
-
-Responsive UI prototypes, landings, dashboards—built with Bootstrap 5 and modern HTML/CSS.
-
-| Project | Features | Stack |
-|---|---|---|
-| [Bootstrap Landing](https://github.com/JB1302/Projects/tree/main/BootStrap/Bootstrap%20Testing) | Data Engineer landing, custom theme | Bootstrap 5, HTML, CSS |
-
----
-
-## 🗃️ Documentos & Otros
-
-Supporting files, scripts, and coursework notes for various projects and university classes.
-
----
+**⚠️ Recordatorio**: Este software es para demostración educativa únicamente. Úsalo responsablemente y solo en sistemas propios o con autorización explícita.
 
