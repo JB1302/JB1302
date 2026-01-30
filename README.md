@@ -1,185 +1,118 @@
-<!-- Banner / Profile Intro -->
-<h1 align="center">Hi 👋, I’m Jonathan Barrantes</h1>
-<h3 align="center">Backend & Data Engineer | Java Specialist | Costa Rica</h3>
+<!-- =========================================================
+  Jonathan Barrantes — GitHub Profile README (JB1302)
+  Purpose: Profile page (not repo README)
+========================================================= -->
 
 <p align="center">
-  <a href="#about-me">About Me</a> •
-  <a href="#projects">Projects</a> •
-  <a href="#skills--tools">Skills</a> •
-  <a href="#contact">Contact</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=200&section=header&text=Jonathan%20Barrantes&fontSize=46&fontColor=ffffff" alt="banner" />
+</p>
+
+<h2 align="center">Backend & Data Engineer • Java/Spring Boot • Costa Rica</h2>
+
+<p align="center">
+  <a href="https://github.com/JB1302">
+    <img src="https://img.shields.io/badge/GitHub-JB1302-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/jonathanbj/">
+    <img src="https://img.shields.io/badge/LinkedIn-jonathanbj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jstevenbarrantes@gmail.com">
+    <img src="https://img.shields.io/badge/Email-jstevenbarrantes%40gmail.com-64748B?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-22C55E?style=for-the-badge&logo=handshake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Costa%20Rica-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/JB1302/Projects">
+    <img src="https://img.shields.io/badge/Portfolio%20Monorepo-Projects-2563EB?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/github/stars/JB1302/Projects?style=flat-square" />
+  <img src="https://img.shields.io/github/last-commit/JB1302/Projects?style=flat-square" />
 </p>
 
 ---
 
-## 📖 About Me
+## 👋 About Me
 
-I'm a backend developer and data enthusiast passionate about turning ideas into robust, real-world applications.
+I’m **Jonathan Barrantes**, a backend-focused developer with a strong interest in **data engineering** and building **production-style systems**.
 
-- 💻 **Strongest in Java, Spring Boot, SQL, and backend systems**
-- 🚀 Build full-stack web apps, ETL pipelines, automations, and analytics dashboards
-- 🧠 Always exploring new stacks (Python, React, PostgreSQL) and practical solutions
-- 🛠️ Hands-on with DBs, APIs, desktop UIs, data pipelines, and automations
-- 🌎 Based in Costa Rica, open to challenges and collaborations
-
-> _“Write your README before your code.”_  
-> — Tom Preston-Werner (GitHub Co-Founder)
+- ✅ Strongest in **Java, Spring Boot, SQL, and backend architecture**
+- 🔁 Build **CRUD systems**, **ETL pipelines**, **automations**, and **analytics-ready data flows**
+- 🧩 I like clean structure: layers, DTOs, services, repositories, and maintainable code
+- 🚀 Always learning and shipping new projects
 
 ---
 
-## 🛠️ Skills & Tools  
+## 🧭 Quick Links
 
-<p align="center">
-  <a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/></a>
-  <a href="https://www.thymeleaf.org/"><img src="https://www.thymeleaf.org/images/thymeleaf.png" alt="Thymeleaf" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
-  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/sql-server"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/></a>
+- 📦 **Main portfolio repo (monorepo):** https://github.com/JB1302/Projects  
+- 🔥 **Featured projects:** see below  
+- 🧰 **Stack overview:** icons + tooling  
+- 📫 **Contact:** LinkedIn + email  
+
+---
+
+## 🧰 Tech Stack
+
+<p align="left">
+  <a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="36" alt="Java" /></a>
+  <a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="36" alt="Spring" /></a>
+  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="36" alt="React" /></a>
+  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="36" alt="Python" /></a>
+  <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="36" alt="MySQL" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="36" alt="PostgreSQL" /></a>
+  <a href="https://www.microsoft.com/sql-server"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="36" alt="SQL Server" /></a>
+  <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="36" alt="Bootstrap" /></a>
+  <a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="36" alt="C#" /></a>
+  <a href="https://www.php.net/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="36" alt="PHP" /></a>
 </p>
 
----
-
-## 🌐 Languages & Stats
-
-- **Java:** 73.7%  
-- **HTML:** 16.1%  
-- **JavaScript:** 4.0%  
-- **Python:** 3.3%  
-- **CSS:** 2.9%  
+**Also comfortable with:** REST APIs, MVC patterns, OOP, SQL design, Git, and UI prototyping.
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-Explore by stack, or jump to [All Projects](https://github.com/JB1302/Projects):
+> A fast way to understand my range. Most of my work lives inside **Projects (monorepo)**.
 
-| Project | Description | Tech Stack | Section |
-|---|---|---|---|
-| [Pocket Balance](https://github.com/JB1302/PocketBalance) | Personal finance manager: track salary, expenses, and surplus. PostgreSQL, modals, real-time UI. | Java, Spring Boot, Thymeleaf, PostgreSQL, Bootstrap | [Spring Boot](#spring-boot-project-section) |
-| [TreeCapitator](https://github.com/JB1302/Projects/tree/main/SpringBoot/TreeCapitator) | CRUD for tree species with MySQL, image upload, clean layered architecture. | Java, Spring Boot, Thymeleaf, MySQL, Bootstrap | [Spring Boot](#spring-boot-project-section) |
-| [Product Manager CRUD](https://github.com/JB1302/Projects/tree/main/SpringBoot/Firebase-Project) | Product inventory app: add/edit/delete, Firebase image upload, i18n UI. | Java, Spring Boot, Thymeleaf, Firebase, Bootstrap | [Spring Boot](#spring-boot-project-section) |
-| [Food Delivery Landing](https://github.com/JB1302/Projects/tree/main/React/SimpleLanding) | Responsive React business landing with Material UI. | React, Material UI | [React](#react-project-section) |
-| [HR Analytics ETL](https://github.com/JB1302/Projects/tree/main/Python/SQL-ETL) | Excel → JSON → MySQL pipeline, PowerBI-ready. | Python, Pandas, SQL | [Python](#python-project-section) |
-| [Banking Management System](https://github.com/JB1302/Projects/tree/main/Java/BankManager) | Modular queue-based banking, stats, file IO. | Java, Swing, Jsoup | [Java](#java-project-section) |
-| [Web Hero](https://github.com/JB1302/Projects/tree/main/JavaScript/Web-Hero) | Animated grid landing, vanilla JS/CSS. | HTML, JS, CSS | [JavaScript](#javascript-project-section) |
-| [Bootstrap Landing Page](https://github.com/JB1302/Projects/tree/main/BootStrap/Bootstrap%20Testing) | Data Engineer portfolio landing. | Bootstrap 5, HTML, CSS | [Bootstrap](#bootstrap-project-section) |
-
-_And more—see each section for the full catalog, features, and README guides._
+| Area | Project | Link | Focus |
+| --- | --- | --- | --- |
+| Portfolio | Projects Monorepo | https://github.com/JB1302/Projects | Main hub: organized by stack + READMEs |
+| Spring Boot | TreeCapitator | https://github.com/JB1302/Projects/tree/main/SpringBoot/TreeCapitator | CRUD + SQL persistence + clean architecture |
+| Spring Boot | Product Manager CRUD | https://github.com/JB1302/Projects/tree/main/SpringBoot/Firebase-Project | Firebase Storage uploads + i18n UI |
+| React | Mini E-commerce | https://github.com/JB1302/Projects/tree/main/React/mini-ecommerce | Catalog filtering + cart/checkout flow |
+| React | Food Delivery Landing | https://github.com/JB1302/Projects/tree/main/React/SimpleLanding | Responsive UI + modular sections |
+| Python | Transaction Manager | https://github.com/JB1302/Projects/tree/main/Python/Transaction-Manager | Desktop finance tracker + local persistence |
+| Java | BankManager | https://github.com/JB1302/Projects/tree/main/Java/BankManager | OOP + queues + stats + persistence |
 
 ---
 
-## 📂 Repository Sections
+## 🗺️ Browse by Stack (Monorepo Map)
 
-- [Spring Boot](#spring-boot-project-section)
-- [React](#react-project-section)
-- [Python](#python-project-section)
-- [JavaScript](#javascript-project-section)
-- [Java](#java-project-section)
-- [Bootstrap](#bootstrap-project-section)
-- [🗃️ Documentos & Others](#documentos--otros)
+- ☕ Spring Boot: `Projects/SpringBoot/`
+- ⚛️ React: `Projects/React/`
+- 🐍 Python: `Projects/Python/`
+- 🟨 JavaScript: `Projects/JavaScript/`
+- ☕ Java: `Projects/Java/`
+- 🧩 SQL: `Projects/SQL/`
+- 🧱 Bootstrap: `Projects/BootStrap/`
+- 🟪 C#: `Projects/Csharp/`
+- 🐘 PHP: `Projects/PHP/`
+- 🎨 HTML/CSS + misc: `Projects/HTML/`, `Projects/Otros/`
 
 ---
+
 
 ## 📫 Contact
 
-- **Email:** jstevenbarrantes@gmail.com  
-- **LinkedIn:** [Jonathan Barrantes](https://www.linkedin.com/in/jonathan-barrantes/)
+- LinkedIn: https://www.linkedin.com/in/jonathanbj/  
+- Email: **jstevenbarrantes@gmail.com**
 
----
-
-<details>
-<summary>Fun fact (click!):</summary>
-<p>
-If my code doesn't run the first time, it's not a bug—it's an "emerging feature". 😉
+<p align="center">
+  <sub>Thanks for visiting — I’m continuously improving and shipping new projects.</sub>
 </p>
-</details>
 
----
-
-_This profile is open to feedback, collaborations, or just connecting with like-minded devs.  
-Star a repo if you like it, or reach out—I'm always learning!_
-
----
-
-## 🌿 Spring Boot Project Section
-
-A selection of robust full-stack web apps built with Java, Spring Boot, Thymeleaf, SQL, and Bootstrap.  
-Includes dashboards, modular CRUD systems, image upload, i18n UI, and REST/DB integrations.
-
-| Project | Features | Stack |
-|---|---|---|
-| [Pocket Balance](https://github.com/JB1302/PocketBalance) | Personal finance manager, salary/expenses/surplus, PostgreSQL cloud DB, modals, responsive UI | Java, Spring Boot, Thymeleaf, PostgreSQL, Bootstrap |
-| [TreeCapitator](https://github.com/JB1302/Projects/tree/main/SpringBoot/TreeCapitator) | CRUD for tree species, MySQL persistence, image upload | Java, Spring Boot, Thymeleaf, MySQL, Bootstrap |
-| [Product Manager CRUD](https://github.com/JB1302/Projects/tree/main/SpringBoot/Firebase-Project) | Product inventory, Firebase image upload, multilingual UI | Java, Spring Boot, Thymeleaf, Firebase, Bootstrap |
-
----
-
-## ⚛️ React Project Section
-
-Modern, modular web apps and business landings with React, Material UI, and best practices.
-
-| Project | Features | Stack |
-|---|---|---|
-| [Food Delivery Landing](https://github.com/JB1302/Projects/tree/main/React/SimpleLanding) | Responsive business site, Material UI | React, Material UI |
-| [Minimal Landing](https://github.com/JB1302/Projects/tree/main/React/LandingHero) | Portfolio/product landing, clean design | React, CSS |
-
----
-
-## 🐍 Python Project Section
-
-Automations, ETL pipelines, analytics, and desktop tools—Pandas, SQL, web automation.
-
-| Project | Features | Stack |
-|---|---|---|
-| [Financial Transaction Manager](https://github.com/JB1302/Projects/tree/main/Python/Transaction-Manager) | Desktop UI for income/expenses, cross-platform | Python, PyWebView |
-| [HR Analytics ETL](https://github.com/JB1302/Projects/tree/main/Python/SQL-ETL) | Excel → JSON → MySQL ETL, PowerBI-ready | Python, Pandas, SQL |
-| [Address Search Automation](https://github.com/JB1302/Projects/tree/main/Python/Pandas-WeBrowser) | Batch Google Maps validation from Excel | Python, pandas, webbrowser |
-
----
-
-## 🟨 JavaScript Project Section
-
-Interactive UIs and games with vanilla JS, HTML5, and CSS3.
-
-| Project | Features | Stack |
-|---|---|---|
-| [Web Hero](https://github.com/JB1302/Projects/tree/main/JavaScript/Web-Hero) | Animated grid UI, sidebar, responsive | JS, HTML, CSS |
-| [Collapsible Side Panel](https://github.com/JB1302/Projects/tree/main/JavaScript/Acordion) | Responsive dashboard UI | JS, HTML, CSS |
-| [Rock Paper Scissors](https://github.com/JB1302/Projects/tree/main/JavaScript/Rock-Paper-Scissors) | Classic browser game | JS, HTML, CSS |
-
----
-
-## ☕ Java Project Section
-
-From GUIs to REST APIs and networked apps, showing advanced OOP, Swing/JavaFX, and persistence.
-
-| Project | Features | Stack |
-|---|---|---|
-| [WeatherApp](https://github.com/JB1302/Projects/tree/main/Java/WeatherApp) | Desktop weather app, API calls | Java, Swing, HTTP |
-| [Banking System](https://github.com/JB1302/Projects/tree/main/Java/BankManager) | Modular queue-based banking | Java, Swing |
-| [Art Gallery System](https://github.com/JB1302/Projects/tree/main/Java/SGA) | Artists/galleries CRUD + socket system | Java, MySQL, Swing |
-
----
-
-## 📦 Bootstrap Project Section
-
-Responsive UI prototypes, landings, dashboards—built with Bootstrap 5 and modern HTML/CSS.
-
-| Project | Features | Stack |
-|---|---|---|
-| [Bootstrap Landing](https://github.com/JB1302/Projects/tree/main/BootStrap/Bootstrap%20Testing) | Data Engineer landing, custom theme | Bootstrap 5, HTML, CSS |
-
----
-
-## 🗃️ Documentos & Otros
-
-Supporting files, scripts, and coursework notes for various projects and university classes.
-
----
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=120&section=footer" alt="footer" />
+</p>
