@@ -3,34 +3,37 @@
   Senior Programmer Analyst | Software Engineering | Data & BI
 ========================================================= -->
 
-<p align="center">
-  <img width="100%" src="./assets/profile-header.svg" alt="Jonathan Barrantes — Senior Programmer Analyst" />
-</p>
+<div align="center">
 
-<p align="center">
-  <strong>Senior Programmer Analyst at L.L.Bean Costa Rica</strong><br/>
-  Enterprise Software • Backend & Full-Stack Development • Data Engineering • Business Intelligence
-</p>
+# Jonathan Barrantes
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jonathanbj/">
-    <img src="https://img.shields.io/badge/LinkedIn-Jonathan%20Barrantes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://jb1302.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:jstevenbarrantes@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-64748B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+### Senior Programmer Analyst
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-Senior%20Programmer%20Analyst-0F766E?style=flat-square" alt="Senior Programmer Analyst" />
-  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-1D4ED8?style=flat-square" alt="4+ years of experience" />
-  <img src="https://img.shields.io/badge/Location-Costa%20Rica-0284C7?style=flat-square&logo=googlemaps&logoColor=white" alt="Costa Rica" />
-  <img src="https://komarev.com/ghpvc/?username=JB1302&style=flat-square&color=2563EB&label=Profile+Views" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/JB1302?style=flat-square&logo=github&label=Followers" alt="GitHub followers" />
-</p>
+**Senior Programmer Analyst at L.L.Bean Costa Rica**
+
+Enterprise Software • Backend & Full-Stack Development • Data Engineering • Business Intelligence
+
+<br/>
+
+<a href="https://www.linkedin.com/in/jonathanbj/">
+  <img src="https://img.shields.io/badge/LinkedIn-Jonathan%20Barrantes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://jb1302.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:jstevenbarrantes@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-64748B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Role-Senior%20Programmer%20Analyst-0F766E?style=flat-square" alt="Senior Programmer Analyst" />
+<img src="https://img.shields.io/badge/Experience-4%2B%20Years-1D4ED8?style=flat-square" alt="4+ years of experience" />
+<img src="https://img.shields.io/badge/Location-Costa%20Rica-0284C7?style=flat-square&logo=googlemaps&logoColor=white" alt="Costa Rica" />
+<img src="https://komarev.com/ghpvc/?username=JB1302&style=flat-square&color=2563EB&label=Profile+Views" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/JB1302?style=flat-square&logo=github&label=Followers" alt="GitHub followers" />
+
+</div>
 
 ---
 
@@ -189,8 +192,4 @@ I am especially effective at connecting business requirements with technical exe
 
 <p align="center">
   <strong>Building reliable solutions where enterprise software, data, automation, and business needs meet.</strong>
-</p>
-
-<p align="center">
-  <img width="100%" src="./assets/profile-footer.svg" alt="Profile footer" />
 </p>
