@@ -7,10 +7,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=200&section=header&text=Jonathan%20Barrantes&fontSize=46&fontColor=ffffff" alt="Jonathan Barrantes banner" />
 </p>
 
-<h2 align="center">Data Analysis Professional & Backend Developer</h2>
+<h2 align="center">Software Developer & Data/BI Professional</h2>
 
 <p align="center">
-  Business Intelligence • SQL • Python • Java/Spring Boot • C#/.NET • Costa Rica
+  Java/Spring Boot • C#/.NET • SQL • Power BI • Python • Costa Rica
 </p>
 
 <p align="center">
@@ -38,41 +38,29 @@
 
 ## 👋 About Me
 
-I’m **Jonathan Barrantes**, a data and software professional with **4+ years of experience** across business intelligence, analytics, data quality, automation, and application development.
+I’m **Jonathan Barrantes**, a developer with professional experience across **software development, business intelligence, analytics, data quality, and automation**.
 
-My work combines two areas:
+I work comfortably at the intersection of data and application development:
 
-- 📊 **Data & BI:** SQL analysis, data validation, reporting, ETL-style workflows, automation, and analytics-ready datasets.
-- ⚙️ **Backend development:** Java/Spring Boot and C#/.NET applications, REST APIs, MVC architectures, authentication, and database-driven systems.
+- ⚙️ **Software development:** Java/Spring Boot and C#/.NET applications, REST APIs, MVC architectures, authentication, and database-driven systems.
+- 📊 **Data & BI:** SQL analysis, Power BI, DAX, Power Query, data validation, reporting, ETL-style workflows, and process automation.
+- 🧩 **Business problem solving:** translating operational requirements into maintainable technical solutions and reliable data flows.
 
-I enjoy translating business requirements into reliable technical solutions, organizing maintainable code, and continuously expanding from analytics into software engineering.
+Currently at **L.L.Bean Costa Rica**, I continue strengthening my enterprise technology experience while building backend and full-stack projects outside of work.
 
 ---
 
 ## 💼 Experience Snapshot
 
-| Period | Focus | Highlights |
+| Stage | Focus | Highlights |
 | --- | --- | --- |
-| **2025 – Present** | Data Analysis Professional | Data analysis, SQL-based validation, system integrations, operational reporting, documentation, and cross-functional delivery. |
+| **Current** | Enterprise Technology — L.L.Bean Costa Rica | Professional growth in software, systems, data, and technical problem solving within an enterprise environment. |
 | **2023 – 2025** | Business Intelligence Specialist / Analyst | Power BI solutions, DAX, Power Query, data-quality controls, KPI reporting, automation, and stakeholder support. |
 | **2022 – 2023** | Junior Developer | Web development, backend foundations, databases, application support, and collaborative software delivery. |
 
 ---
 
 ## 🧰 Core Stack
-
-### Data, Analytics & BI
-
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=000000" alt="Power BI" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
-</p>
-
-**Experience with:** Power BI, DAX, Power Query, SQL analysis, data validation, KPI reporting, ETL-style processes, CSV/data transformations, and process automation.
 
 ### Backend & Application Development
 
@@ -86,6 +74,19 @@ I enjoy translating business requirements into reliable technical solutions, org
 </p>
 
 **Experience with:** layered architectures, MVC, REST APIs, authentication and authorization, CRUD systems, stored procedures, DTOs, services, repositories, and API integrations.
+
+### Data, Analytics & BI
+
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=000000" alt="Power BI" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
+</p>
+
+**Experience with:** Power BI, DAX, Power Query, SQL analysis, data validation, KPI reporting, ETL-style processes, CSV/data transformations, and process automation.
 
 ### Databases, Frontend & Tools
 
@@ -113,10 +114,21 @@ I enjoy translating business requirements into reliable technical solutions, org
 
 ---
 
+## 📊 Selected Data & Automation Work
+
+| Project | Technologies | Focus |
+| --- | --- | --- |
+| **ETL System for Business Intelligence** | Python, Pandas, MySQL, Power BI | Extracted data from Excel, transformed it into structured formats, loaded it with transactional controls, and prepared it for analytics. |
+| **Sales Intelligence Dashboard** | Power BI, DAX, Power Query | Sales KPIs, product and channel analysis, data transformation, and forecasting-oriented reporting. |
+| **HR Analytics Dashboard** | Power BI, Power Query | Data cleaning and transformation for workforce reporting and decision support. |
+| **Address Search Automator** | Python, Tkinter, Excel | Automated repetitive address searches and provided both command-line and graphical interfaces. |
+
+---
+
 ## 🎯 Current Focus
 
 - Building stronger backend systems with **Java/Spring Boot** and **C#/.NET**.
-- Applying professional experience in **data quality, SQL, BI, and automation** to software projects.
+- Applying professional experience in **SQL, BI, data quality, and automation** to software projects.
 - Improving testing, security, documentation, deployment, and maintainability.
 - Completing my **Systems Engineering** degree at Universidad Fidélitas.
 
@@ -129,7 +141,7 @@ I enjoy translating business requirements into reliable technical solutions, org
 - **GitHub:** [github.com/JB1302](https://github.com/JB1302)
 
 <p align="center">
-  <sub>Building reliable solutions where data, automation, and software engineering meet.</sub>
+  <sub>Building reliable solutions where software engineering, data, and automation meet.</sub>
 </p>
 
 <p align="center">
