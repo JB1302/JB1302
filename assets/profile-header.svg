@@ -1,6 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-labelledby="title description">
   <title id="title">Jonathan Barrantes</title>
-  <desc id="desc">Senior Programmer Analyst, Software Engineering, Data and Business Intelligence</desc>
+  <desc id="description">Senior Programmer Analyst, Software Engineering, Data and Business Intelligence</desc>
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="50%" stop-color="#1D4ED8"/>
+      <stop offset="100%" stop-color="#06B6D4"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.18"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="220" fill="url(#bg)"/>
+  <circle cx="105" cy="45" r="115" fill="#FFFFFF" opacity="0.04"/>
+  <circle cx="1110" cy="185" r="150" fill="#FFFFFF" opacity="0.05"/>
+  <path d="M0 172 C180 120 330 216 520 164 C735 104 855 206 1200 130 L1200 220 L0 220 Z" fill="url(#wave)"/>
+  <text x="600" y="92" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="700">Jonathan Barrantes</text>
+  <text x="600" y="132" text-anchor="middle" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">Senior Programmer Analyst</text>
+  <text x="600" y="163" text-anchor="middle" fill="#DBEAFE" font-family="Segoe UI, Arial, sans-serif" font-size="16">Software Engineering | Data Engineering | Business Intelligence</text>
+</svg>
