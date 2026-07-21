@@ -1,118 +1,137 @@
 <!-- =========================================================
   Jonathan Barrantes — GitHub Profile README (JB1302)
-  Purpose: Profile page (not repo README)
+  Purpose: Profile page
 ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=200&section=header&text=Jonathan%20Barrantes&fontSize=46&fontColor=ffffff" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=200&section=header&text=Jonathan%20Barrantes&fontSize=46&fontColor=ffffff" alt="Jonathan Barrantes banner" />
 </p>
 
-<h2 align="center">Backend & Data Engineer • Java/Spring Boot • Costa Rica</h2>
+<h2 align="center">Data Analysis Professional & Backend Developer</h2>
+
+<p align="center">
+  Business Intelligence • SQL • Python • Java/Spring Boot • C#/.NET • Costa Rica
+</p>
 
 <p align="center">
   <a href="https://github.com/JB1302">
-    <img src="https://img.shields.io/badge/GitHub-JB1302-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-JB1302-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/jonathanbj/">
-    <img src="https://img.shields.io/badge/LinkedIn-jonathanbj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-jonathanbj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:jstevenbarrantes@gmail.com">
-    <img src="https://img.shields.io/badge/Email-jstevenbarrantes%40gmail.com-64748B?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-64748B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-22C55E?style=for-the-badge&logo=handshake&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Costa%20Rica-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Costa%20Rica-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Costa Rica" />
 </p>
 
 <p align="center">
   <a href="https://github.com/JB1302/Projects">
-    <img src="https://img.shields.io/badge/Portfolio%20Monorepo-Projects-2563EB?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio%20Monorepo-Projects-2563EB?style=flat-square&logo=github&logoColor=white" alt="Projects portfolio" />
   </a>
-  <img src="https://img.shields.io/github/stars/JB1302/Projects?style=flat-square" />
-  <img src="https://img.shields.io/github/last-commit/JB1302/Projects?style=flat-square" />
+  <img src="https://img.shields.io/github/stars/JB1302/Projects?style=flat-square" alt="Projects stars" />
+  <img src="https://img.shields.io/github/last-commit/JB1302/Projects?style=flat-square" alt="Projects last commit" />
 </p>
 
 ---
 
 ## 👋 About Me
 
-I’m **Jonathan Barrantes**, a backend-focused developer with a strong interest in **data engineering** and building **production-style systems**.
+I’m **Jonathan Barrantes**, a data and software professional with **4+ years of experience** across business intelligence, analytics, data quality, automation, and application development.
 
-- ✅ Strongest in **Java, Spring Boot, SQL, and backend architecture**
-- 🔁 Build **CRUD systems**, **ETL pipelines**, **automations**, and **analytics-ready data flows**
-- 🧩 I like clean structure: layers, DTOs, services, repositories, and maintainable code
-- 🚀 Always learning and shipping new projects
+My work combines two areas:
 
----
+- 📊 **Data & BI:** SQL analysis, data validation, reporting, ETL-style workflows, automation, and analytics-ready datasets.
+- ⚙️ **Backend development:** Java/Spring Boot and C#/.NET applications, REST APIs, MVC architectures, authentication, and database-driven systems.
 
-## 🧭 Quick Links
-
-- 📦 **Main portfolio repo (monorepo):** https://github.com/JB1302/Projects  
-- 🔥 **Featured projects:** see below  
-- 🧰 **Stack overview:** icons + tooling  
-- 📫 **Contact:** LinkedIn + email  
+I enjoy translating business requirements into reliable technical solutions, organizing maintainable code, and continuously expanding from analytics into software engineering.
 
 ---
 
-## 🧰 Tech Stack
+## 💼 Experience Snapshot
 
-<p align="left">
-  <a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="36" alt="Java" /></a>
-  <a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="36" alt="Spring" /></a>
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="36" alt="React" /></a>
-  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="36" alt="Python" /></a>
-  <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="36" alt="MySQL" /></a>
-  <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="36" alt="PostgreSQL" /></a>
-  <a href="https://www.microsoft.com/sql-server"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="36" alt="SQL Server" /></a>
-  <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="36" alt="Bootstrap" /></a>
-  <a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="36" alt="C#" /></a>
-  <a href="https://www.php.net/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="36" alt="PHP" /></a>
+| Period | Focus | Highlights |
+| --- | --- | --- |
+| **2025 – Present** | Data Analysis Professional | Data analysis, SQL-based validation, system integrations, operational reporting, documentation, and cross-functional delivery. |
+| **2023 – 2025** | Business Intelligence Specialist / Analyst | Power BI solutions, DAX, Power Query, data-quality controls, KPI reporting, automation, and stakeholder support. |
+| **2022 – 2023** | Junior Developer | Web development, backend foundations, databases, application support, and collaborative software delivery. |
+
+---
+
+## 🧰 Core Stack
+
+### Data, Analytics & BI
+
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=000000" alt="Power BI" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
 </p>
 
-**Also comfortable with:** REST APIs, MVC patterns, OOP, SQL design, Git, and UI prototyping.
+**Experience with:** Power BI, DAX, Power Query, SQL analysis, data validation, KPI reporting, ETL-style processes, CSV/data transformations, and process automation.
+
+### Backend & Application Development
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/REST%20APIs-0A66C2?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Dapper-0A66C2?style=flat-square" alt="Dapper" />
+</p>
+
+**Experience with:** layered architectures, MVC, REST APIs, authentication and authorization, CRUD systems, stored procedures, DTOs, services, repositories, and API integrations.
+
+### Databases, Frontend & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000" alt="React" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-> A fast way to understand my range. Most of my work lives inside **Projects (monorepo)**.
-
-| Area | Project | Link | Focus |
-| --- | --- | --- | --- |
-| Portfolio | Projects Monorepo | https://github.com/JB1302/Projects | Main hub: organized by stack + READMEs |
-| Spring Boot | TreeCapitator | https://github.com/JB1302/Projects/tree/main/SpringBoot/TreeCapitator | CRUD + SQL persistence + clean architecture |
-| Spring Boot | Product Manager CRUD | https://github.com/JB1302/Projects/tree/main/SpringBoot/Firebase-Project | Firebase Storage uploads + i18n UI |
-| React | Mini E-commerce | https://github.com/JB1302/Projects/tree/main/React/mini-ecommerce | Catalog filtering + cart/checkout flow |
-| React | Food Delivery Landing | https://github.com/JB1302/Projects/tree/main/React/SimpleLanding | Responsive UI + modular sections |
-| Python | Transaction Manager | https://github.com/JB1302/Projects/tree/main/Python/Transaction-Manager | Desktop finance tracker + local persistence |
-| Java | BankManager | https://github.com/JB1302/Projects/tree/main/Java/BankManager | OOP + queues + stats + persistence |
+| Project | Stack | What It Demonstrates |
+| --- | --- | --- |
+| [**Ministerio Gosen**](https://github.com/JB1302/MinisterioGosen) | ASP.NET Core MVC, Web API, SQL Server, Dapper | Full web platform with authentication, users, roles, activities, appointments, reports, dashboard, email recovery, and chatbot functionality. |
+| [**CheckPoint**](https://github.com/JB1302/CheckPoint) | .NET 8, ASP.NET Core MVC, MongoDB, SignalR | Gaming-community platform with events, roles, moderation, REST APIs, real-time notifications, and layered services. |
+| [**Projects Monorepo**](https://github.com/JB1302/Projects) | Java, Spring Boot, React, Python, SQL, C# | Central portfolio containing backend applications, data utilities, UI projects, database exercises, and technical coursework. |
+| [**Portfolio Website**](https://github.com/JB1302/Portfolio) | HTML, CSS, JavaScript | Personal portfolio and visual presentation of projects and technical skills. |
 
 ---
 
-## 🗺️ Browse by Stack (Monorepo Map)
+## 🎯 Current Focus
 
-- ☕ Spring Boot: `Projects/SpringBoot/`
-- ⚛️ React: `Projects/React/`
-- 🐍 Python: `Projects/Python/`
-- 🟨 JavaScript: `Projects/JavaScript/`
-- ☕ Java: `Projects/Java/`
-- 🧩 SQL: `Projects/SQL/`
-- 🧱 Bootstrap: `Projects/BootStrap/`
-- 🟪 C#: `Projects/Csharp/`
-- 🐘 PHP: `Projects/PHP/`
-- 🎨 HTML/CSS + misc: `Projects/HTML/`, `Projects/Otros/`
+- Building stronger backend systems with **Java/Spring Boot** and **C#/.NET**.
+- Applying professional experience in **data quality, SQL, BI, and automation** to software projects.
+- Improving testing, security, documentation, deployment, and maintainability.
+- Completing my **Systems Engineering** degree at Universidad Fidélitas.
 
 ---
-
 
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/jonathanbj/  
-- Email: **jstevenbarrantes@gmail.com**
+- **LinkedIn:** [linkedin.com/in/jonathanbj](https://www.linkedin.com/in/jonathanbj/)
+- **Email:** [jstevenbarrantes@gmail.com](mailto:jstevenbarrantes@gmail.com)
+- **GitHub:** [github.com/JB1302](https://github.com/JB1302)
 
 <p align="center">
-  <sub>Thanks for visiting — I’m continuously improving and shipping new projects.</sub>
+  <sub>Building reliable solutions where data, automation, and software engineering meet.</sub>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=120&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=120&section=footer" alt="Footer" />
 </p>
