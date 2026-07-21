@@ -4,7 +4,13 @@
 ========================================================= -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=210&section=header&text=Jonathan%20Barrantes&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Senior%20Programmer%20Analyst%20%7C%20Software%20Engineering%20%7C%20Data%20%26%20BI&descAlignY=60&descSize=18" alt="Jonathan Barrantes banner" />
+  <a href="https://github.com/JB1302">
+    <img
+      width="100%"
+      src="https://readmeforge.natrajx.in/api/banner?text=Jonathan%20Barrantes&amp;subtext=Senior%20Programmer%20Analyst%20%7C%20Software%20Engineering%20%7C%20Data%20%26%20BI&amp;visualStyle=gradient&amp;colors=%230F172A,%231D4ED8,%2306B6D4&amp;angle=90&amp;textColor=%23FFFFFF&amp;subtextColor=%23DBEAFE&amp;align=center&amp;width=1200&amp;v=4"
+      alt="Jonathan Barrantes — Senior Programmer Analyst"
+    />
+  </a>
 </p>
 
 <p align="center">
@@ -14,22 +20,48 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jonathanbj/">
-    <img src="https://img.shields.io/badge/LinkedIn-Jonathan%20Barrantes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Jonathan%20Barrantes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
   <a href="https://jb1302.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img
+      src="https://img.shields.io/badge/Portfolio-Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="Portfolio"
+    />
   </a>
   <a href="mailto:jstevenbarrantes@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-64748B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img
+      src="https://img.shields.io/badge/Email-Contact-64748B?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Senior%20Programmer%20Analyst-0F766E?style=flat-square" alt="Senior Programmer Analyst" />
-  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-1D4ED8?style=flat-square" alt="4+ years of experience" />
-  <img src="https://img.shields.io/badge/Location-Costa%20Rica-0284C7?style=flat-square&logo=googlemaps&logoColor=white" alt="Costa Rica" />
-  <img src="https://komarev.com/ghpvc/?username=JB1302&style=flat-square&color=2563EB&label=Profile+Views" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/JB1302?style=flat-square&logo=github&label=Followers" alt="GitHub followers" />
+  <img
+    src="https://img.shields.io/badge/Role-Senior%20Programmer%20Analyst-0F766E?style=flat-square"
+    alt="Senior Programmer Analyst"
+  />
+  <img
+    src="https://img.shields.io/badge/Experience-4%2B%20Years-1D4ED8?style=flat-square"
+    alt="4+ years of experience"
+  />
+  <img
+    src="https://img.shields.io/badge/Location-Costa%20Rica-0284C7?style=flat-square&logo=googlemaps&logoColor=white"
+    alt="Costa Rica"
+  />
+  <img
+    src="https://komarev.com/ghpvc/?username=JB1302&style=flat-square&color=2563EB&label=Profile+Views"
+    alt="Profile views"
+  />
+  <a href="https://github.com/JB1302?tab=followers">
+    <img
+      src="https://img.shields.io/github/followers/JB1302?style=flat-square&logo=github&label=Followers"
+      alt="GitHub followers"
+    />
+  </a>
 </p>
 
 ---
