@@ -116,7 +116,7 @@ I am especially effective at connecting business requirements with technical exe
   <img src="https://img.shields.io/badge/Selenium-Automated%20Testing-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" />
   <img src="https://img.shields.io/badge/JUnit-Testing-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit" />
   <img src="https://img.shields.io/badge/JasperReports-Reporting-8B5CF6?style=flat-square" alt="JasperReports" />
-  <img src="https://img.shields.io/badge/Agile-Scrum-0EA5E9?style=flat-square&logo=scrumalliance&logoColor=white" alt="Agile and Scrum" />
+  <img src="https://img.shields.io/badge/Agile-Scrum-0EA5E9?style=flat-square" alt="Agile and Scrum" />
 </p>
 
 ---
