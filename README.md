@@ -70,15 +70,16 @@
 
 I am a **Senior Programmer Analyst** with **4+ years of technology experience** spanning enterprise software, business intelligence, data analysis, data quality, automation, application development, and technical support.
 
-My background combines the discipline of data work with hands-on software engineering. I design and build backend and full-stack systems, REST APIs, data-driven applications, reporting solutions, and automation workflows using **C#/.NET, Java/Spring Boot, Python, SQL, Power BI, and React/TypeScript**.
+My background combines the discipline of data work with hands-on software engineering. I design and build backend and full-stack systems, REST APIs, data-driven applications, reporting solutions, and automation workflows using **C#/.NET, Java/Spring Boot, Node.js/Express, Python, SQL/PL/SQL, Power BI, React/TypeScript, and Linux-based tooling**.
 
 I am especially effective at connecting business requirements with technical execution—from understanding an operational problem and validating its data, to designing the application architecture, database, integrations, security, reporting, and user experience required to solve it.
 
 ### What I bring
 
 - **Enterprise software delivery:** requirements analysis, systems integration, technical troubleshooting, documentation, maintainable implementations, and cross-functional collaboration.
-- **Backend and full-stack engineering:** layered architectures, MVC, REST APIs, authentication, role-based authorization, services, repositories, DTOs, relational and document databases.
-- **Data and BI expertise:** SQL analysis, ETL-style workflows, data validation, migration, KPI reporting, Power BI, DAX, Power Query, Python/Pandas, Snowflake, and Oracle.
+- **Backend and full-stack engineering:** layered architectures, MVC, REST APIs, Node.js/Express services, authentication, role-based authorization, services, repositories, DTOs, and relational and document databases.
+- **Data and BI expertise:** SQL and PL/SQL development, ETL-style workflows, data validation, migration, KPI reporting, Power BI, DAX, Power Query, Python/Pandas, Snowflake, Oracle, and SQL*Plus.
+- **Cloud and data operations:** Linux and Bash workflows, Oracle command-line operations, Azure CLI, AzCopy, storage transfers, CSV processing, and enterprise data movement.
 - **Engineering quality:** Git-based workflows, Docker, automated and UI testing, Selenium, JUnit, error handling, API documentation, and secure configuration practices.
 
 ---
@@ -88,7 +89,7 @@ I am especially effective at connecting business requirements with technical exe
 | Period | Role | Organization | Focus |
 | --- | --- | --- | --- |
 | **2026 – Present** | **Senior Programmer Analyst** | **L.L.Bean Costa Rica** | Enterprise applications, systems and data workflows, analysis, integrations, technical problem solving, and delivery. |
-| **2025 – 2026** | Data Analysis – Professional I | Infinite Computer Solutions | Data analysis, validation, migrations, SQL-based workflows, operational reporting, and system support. |
+| **2025 – 2026** | Data Analysis – Professional I | Infinite Computer Solutions | Data analysis, validation, Oracle and PL/SQL workflows, Linux command-line operations, Azure storage transfers with AzCopy/Azure CLI, migrations, reporting, and system support. |
 | **2023 – 2025** | Business Intelligence Specialist / Analyst | 3M | Power BI, DAX, Power Query, Snowflake, KPI reporting, data-quality controls, automation, and stakeholder enablement. |
 | **2022 – 2023** | Junior Developer — Part Time | 3M | Web development, backend foundations, databases, application support, and collaborative delivery. |
 
@@ -101,7 +102,7 @@ I am especially effective at connecting business requirements with technical exe
 ### Languages & Core Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,python,js,ts,react,php,html,css&perline=11" alt="Programming languages and frameworks" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,nodejs,express,python,js,ts,react,php,html,css&perline=13" alt="Programming languages and frameworks" />
 </p>
 
 ### Backend, Architecture & APIs
@@ -111,6 +112,9 @@ I am especially effective at connecting business requirements with technical exe
   <img src="https://img.shields.io/badge/.NET-8%20%7C%2010-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Spring%20Security-RBAC-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/Node.js-Backend%20Development-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-REST%20APIs-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Mongoose-MongoDB%20ODM-880000?style=flat-square&logo=mongoose&logoColor=white" alt="Mongoose" />
   <img src="https://img.shields.io/badge/REST-APIs-0EA5E9?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
   <img src="https://img.shields.io/badge/Architecture-Layered%20%7C%20MVC-334155?style=flat-square" alt="Layered architecture and MVC" />
   <img src="https://img.shields.io/badge/Entity%20Framework-Code%20First-512BD4?style=flat-square" alt="Entity Framework" />
@@ -129,6 +133,8 @@ I am especially effective at connecting business requirements with technical exe
   <img src="https://img.shields.io/badge/Pandas-Data%20Processing-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Snowflake-Data%20Platform-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake" />
   <img src="https://img.shields.io/badge/Oracle-Enterprise%20Data-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/PL%2FSQL-Oracle%20Development-F80000?style=flat-square&logo=oracle&logoColor=white" alt="PL/SQL" />
+  <img src="https://img.shields.io/badge/SQL%2APlus-Oracle%20CLI-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle SQL*Plus" />
   <img src="https://img.shields.io/badge/ETL-Data%20Pipelines-0F766E?style=flat-square" alt="ETL" />
   <img src="https://img.shields.io/badge/Data%20Quality-Validation%20%26%20Controls-1D4ED8?style=flat-square" alt="Data quality" />
   <img src="https://img.shields.io/badge/KPI-Reporting-7C3AED?style=flat-square" alt="KPI reporting" />
@@ -137,11 +143,15 @@ I am especially effective at connecting business requirements with technical exe
 ### Databases, Frontend, Testing & Delivery
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,docker,git,github,maven,npm,bootstrap,visualstudio,vscode&perline=12" alt="Databases and development tools" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,azure,linux,bash,docker,git,github,maven,npm,bootstrap,visualstudio,vscode&perline=15" alt="Databases, cloud platforms, operating systems, and development tools" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Linux-Command%20Line-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Bash-Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Azure%20CLI-Cloud%20Operations-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure CLI" />
+  <img src="https://img.shields.io/badge/AzCopy-Azure%20Storage%20Transfer-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="AzCopy" />
   <img src="https://img.shields.io/badge/Razor-Views-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Razor Views" />
   <img src="https://img.shields.io/badge/Thymeleaf-Server%20Templates-005F0F?style=flat-square&logo=thymeleaf&logoColor=white" alt="Thymeleaf" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jQuery" />
@@ -161,13 +171,15 @@ I am especially effective at connecting business requirements with technical exe
 | [**CheckPoint**](https://github.com/JB1302/CheckPoint) | **.NET 8, ASP.NET Core MVC, REST API, MongoDB, SignalR, BCrypt** | Gaming community and events platform with role-based access, social interactions, moderation, audit records, registrations, real-time notifications, and layered domain services. |
 | [**Frontek E-Commerce**](https://github.com/JB1302/Frontek) | **ASP.NET MVC, C#, Entity Framework, SQL Server, Web API, Bootstrap** | Layered e-commerce solution using MVC, Service and Repository patterns; inventory validation, roles, shopping cart, orders, reviews, asynchronous operations, and administrative statistics. |
 | [**Tienda Deportiva**](https://github.com/JB1302/tiendaDeportiva) | **ASP.NET Core, Web API, Entity Framework Code First, SQL Server, JavaScript** | Collaborative full-stack store with product catalog, inventory, orders, API and web layers, database seeding, and shared backend/frontend delivery. |
-| [**Projects Monorepo**](https://github.com/JB1302/Projects) | **Java, Spring Boot, React, Python, SQL, C#, PHP, JavaScript** | Broad engineering portfolio containing CRUD applications, REST-style systems, ETL and automation tools, React interfaces, SQL deliverables, desktop applications, and UI prototypes. |
+| [**Projects Monorepo**](https://github.com/JB1302/Projects) | **Java, Spring Boot, Node.js, Express, React, Python, SQL, C#, PHP, JavaScript** | Broad engineering portfolio containing REST APIs, CRUD applications, ETL and automation tools, React interfaces, SQL deliverables, desktop applications, and UI prototypes. |
 | [**Developer Portfolio**](https://github.com/JB1302/Portfolio) | **JavaScript, HTML, CSS, responsive web design** | Interactive professional portfolio that presents experience, skills, projects, and contact information as a web-based résumé. |
 
 ### Additional Engineering Work
 
 - **Spring Boot systems:** Spring Data JPA, Spring Security, Thymeleaf, MySQL, Firebase Admin, email services, validation, reporting, and Maven.
+- **Node.js API development:** Express.js REST APIs, modular routes, middleware, JSON processing, MongoDB integration through Mongoose, and Nodemon development workflows.
 - **React and TypeScript:** full-stack React/.NET work, component-based interfaces, catalog and commerce experiences, and responsive frontend development.
+- **Oracle and Azure data operations:** SQL and PL/SQL scripts, Oracle SQL*Plus command-line execution, Linux/Bash workflows, Azure CLI, AzCopy storage transfers, CSV processing, and migration support.
 - **Testing and infrastructure:** Selenium + JUnit browser automation, Dockerized applications, API exercises, and deployment-oriented projects.
 - **Data and automation:** Python utilities, web scraping, Pandas transformations, SQL Server scripts and stored procedures, dashboards, ETL workflows, and Excel/CSV processing.
 - **Additional ecosystems:** PHP applications, Firebase integrations, MongoDB document modeling, PostgreSQL, Bootstrap, jQuery, and UI/UX prototypes.
@@ -217,8 +229,8 @@ I am especially effective at connecting business requirements with technical exe
 ## 🎯 Current Direction
 
 - Delivering enterprise technology solutions as a **Senior Programmer Analyst**.
-- Designing maintainable backend and full-stack applications across **.NET and Java ecosystems**.
-- Combining software engineering with **SQL, data quality, integrations, automation, and BI**.
+- Designing maintainable backend and full-stack applications across **.NET, Java, and Node.js ecosystems**.
+- Combining software engineering with **SQL/PLSQL, Oracle, Linux, Azure data transfers, data quality, integrations, automation, and BI**.
 - Advancing testing, security, architecture, deployment, observability, and technical documentation practices.
 - Completing a **Systems Engineering** degree at Universidad Fidélitas.
 
