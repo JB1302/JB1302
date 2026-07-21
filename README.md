@@ -146,19 +146,36 @@ I am especially effective at connecting business requirements with technical exe
 
 <p align="center">
   <a href="https://github.com/JB1302">
-    <img height="190" src="https://github-readme-stats.vercel.app/api?username=JB1302&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Jonathan's GitHub statistics" />
+    <img
+      height="190"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JB1302&theme=tokyonight"
+      alt="Jonathan's GitHub statistics"
+    />
   </a>
+
   <a href="https://github.com/JB1302?tab=repositories">
-    <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JB1302&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&card_width=360" alt="Jonathan's most used languages" />
+    <img
+      height="190"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JB1302&theme=tokyonight"
+      alt="Jonathan's languages by repository"
+    />
   </a>
 </p>
 
 <p align="center">
-  <img width="65%" src="https://streak-stats.demolab.com?user=JB1302&theme=tokyonight&hide_border=true&locale=en" alt="Jonathan's GitHub contribution streak" />
+  <img
+    width="65%"
+    src="https://streak-stats.demolab.com?user=JB1302&theme=tokyonight&hide_border=true&locale=en"
+    alt="Jonathan's GitHub contribution streak"
+  />
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=JB1302&theme=tokyo-night&hide_border=true&area=true" alt="Jonathan's GitHub activity graph" />
+  <img
+    width="98%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=JB1302&theme=tokyo-night&hide_border=true&area=true"
+    alt="Jonathan's GitHub activity graph"
+  />
 </p>
 
 > GitHub language cards reflect the code stored in public repositories; they are not a ranking of professional proficiency.
