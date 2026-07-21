@@ -4,7 +4,7 @@
 ========================================================= -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=210&section=header&text=Jonathan%20Barrantes&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Senior%20Programmer%20Analyst%20%7C%20Software%20Engineering%20%7C%20Data%20%26%20BI&descAlignY=60&descSize=18" alt="Jonathan Barrantes banner" />
+  <img width="100%" src="./assets/profile-header.svg" alt="Jonathan Barrantes — Senior Programmer Analyst" />
 </p>
 
 <p align="center">
@@ -192,5 +192,5 @@ I am especially effective at connecting business requirements with technical exe
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=120&section=footer" alt="Footer" />
+  <img width="100%" src="./assets/profile-footer.svg" alt="Profile footer" />
 </p>
